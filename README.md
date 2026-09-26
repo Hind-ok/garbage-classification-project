@@ -35,10 +35,17 @@ kaggle datasets download -d asdasdasasdas/garbage-classification
 - Précision sur le jeu de test indépendant : **93,9 %**
 
 ## Structure du dépôt
+```text
 garbage-classification-project/
-├── ProjetTraitmentImage.ipynb 
-├── presentation/ Presentation_Tri_de_déchets_recyclables.pdf
+│
+├── ProjetTraitmentImage.ipynb
+│
+├── presentation/
+│   └── Presentation_Tri_de_déchets_recyclables.pdf
+│
 └── README.md
+```
+
 
 ## Technologies utilisées
 - Python, TensorFlow/Keras, PyTorch
